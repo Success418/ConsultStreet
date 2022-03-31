@@ -1,0 +1,1172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ConsultStreet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-17 12:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: comments.php:26
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#. %1$s: 404
+#: inc/template-tags.php:163
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#. %1$s %2$s: date
+#. %1$s %2$s: month
+#. %1$s %2$s: year
+#. %1$s %2$s: author
+#. %1$s %2$s: category
+#. %1$s %2$s: tag
+#. %1$s %2$s: WooCommerce
+#. %1$s %2$s: search
+#: inc/template-tags.php:135 inc/template-tags.php:138
+#: inc/template-tags.php:141 inc/template-tags.php:144
+#: inc/template-tags.php:147 inc/template-tags.php:150
+#: inc/template-tags.php:153 inc/template-tags.php:170
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "//fontawesome.io/icons/"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:56
+msgid "02 Unique Business Homepage Section Styles."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:48
+msgid "04 Unique Header Styles."
+msgstr ""
+
+#: inc/admin/getting-started.php:161
+msgid "1 Year Free Updates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:207
+msgid "24/7 HelpDesk Professional Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:167
+msgid "3 Unique Header Layouts"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgid "404"
+msgstr ""
+
+#. %1$s %2$s: about
+#: inc/admin/getting-started.php:20
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:65
+msgid ""
+"About 1, About 2, Service 1, Service 2, Contact 1, Contact 2, Portfolio 2, 3,"
+" 4 Columns"
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:97
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/getting-started.php:38
+msgid "Activating "
+msgstr ""
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:627
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:660
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: functions.php:125
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/admin/getting-started.php:154
+msgid "Additional Css Box"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:97
+msgid "Advance Blog Layout Styles"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:89
+msgid "Advance Typography with Google Fonts Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:170
+msgid "Advanced Blog Layouts"
+msgstr ""
+
+#: inc/admin/getting-started.php:166
+msgid "Advanced Typography"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "All posts by"
+msgstr ""
+
+#: inc/customizer/controls/code/consultstreet-customize-upgrade-control.php:36
+msgid "and get the other pro features."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:61
+msgid "Archive Blog Pages"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgid "Archive by category"
+msgstr ""
+
+#: inc/template-tags.php:135 inc/template-tags.php:138
+#: inc/template-tags.php:141
+msgid "Archives"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:28
+#: inc/admin/tabs/recommended-plugins-panel.php:27
+msgid ""
+"Arile Extra Plugin requires you to be highly recommended. And after "
+"installing it, you will be able to show all the front page features and, all "
+"business sections of the FrontPage."
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "at"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-page-header-customizer-settings.php:57
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:91
+msgid "Base Typography"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:29
+msgid "Blog"
+msgstr ""
+
+#: inc/admin/getting-started.php:152
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:99
+msgid ""
+"Blog Standard Right & Left Sidebar, Fullwidth, Blog Grid View Right & Left "
+"Sidebar, Blog Grid View Fullwidth, Blog List View Right & Left Sidebar, Blog "
+"List View Fullwidth, Blog Masonry 2, 3, 4 Column Layout."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+msgid "Blog Standard Right Sidebar, Fullwidth."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:26
+msgid "Blog/Archive/Single"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:107
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#. Name of the template
+msgid "Builder Page"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:30
+msgid "by "
+msgstr ""
+
+#: inc/admin/getting-started.php:148
+msgid "Call to Action Options"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Center"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template for the Defult Page Templates"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr ""
+
+#: inc/admin/getting-started.php:143
+msgid "Colors Options"
+msgstr ""
+
+#: comments.php:63 template-parts/content-single.php:37
+#: template-parts/content.php:41
+msgid "Comment"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#. %1$s: welcome screen
+#: inc/admin/getting-started.php:208
+#, php-format
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/tabs/free-vs-pro-panel.php:14
+msgid "ConsultStreet"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:173
+msgid ""
+"ConsultStreet comes in a boxed or a wide layout, and can easily be changed "
+"in the customizer."
+msgstr ""
+
+#: inc/admin/getting-started.php:91
+msgid ""
+"ConsultStreet is a creative and professional multipurpose WordPress theme "
+"that is suited for business, consultant, finance, digital agency, industries,"
+" online shop and many other various site types."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"ConsultStreet is a multipurpose WordPress theme that you can use to create "
+"any website you wish to create. The theme comes with a very flexible design, "
+"and it is fully customizable as per your requirement. ConsultStreet is a "
+"perfect theme for the consulting and finance business website. Not only that,"
+" but this is also a very lightweight theme that is load with a single click "
+"in no time. The theme is completely responsive and mobile-friendly and that "
+"your users can access your site from any device. As well as sophisticated "
+"plus it has some exotic features like customization and clean code, advanced "
+"typography, sticky menu, logo upload, header image, Bootstrap 4 framework, "
+"built with SEO in mind, and translation ready (WPML, Polylang). This theme "
+"supports the best Elementor page builder to create, edit, and updates page "
+"designs as per the requirement. ConsultStreet also supports popular free and "
+"premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact "
+"Form 7, Jetpack, Google Analytics, and much more. Check the demo of "
+"ConsultStreet Pro https://themearile.com/consultstreet-pro-theme/."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:15
+msgid "ConsultStreet Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:157
+msgid "ConsultStreet Pro Theme Features"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:38
+msgid ""
+"Contact form 7 is the most popular plugin. And ConsultStreet theme is fully "
+"compatible with this plugin. By using this plugin you will be able to create "
+"an amazing contact form on your website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:72
+msgid "Contact Form 7 Support"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-footer-widget-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:64
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-footer-widget-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:65
+msgid "Container Full"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-footer-widget-customizer-settings.php:45
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:61
+msgid "Container Width"
+msgstr ""
+
+#: footer.php:15 inc/customizer/consultstreet-customizer-options.php:152
+msgid ""
+"Copyright &copy; 2020 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> ConsultStreet theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Dark Color Style."
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:42
+msgid ""
+"Do you want to sell your product online? ConsultStreet is the fully "
+"WooCommerce compatible theme, through which you can easily create your "
+"online store and sell your products online."
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:49
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:45
+msgid "Drag & Drop post items to re-arrange the order"
+msgstr ""
+
+#: inc/admin/tabs/useful-plugin-panel.php:46
+msgid ""
+"Elementor is the World best WordPress Page Builder, So you can create "
+"beautiful pages with intuitive drag and drop interface. And make pixel "
+"perfect websites at record speeds."
+msgstr ""
+
+#: comments.php:55
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:84
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-typography-customizer-settings.php:32
+msgid "Enable Typography"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgid "Error 404"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:47
+msgid "Extensive Documentation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:63
+msgid "Extra Page Templates"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:206
+msgid "Fast & Friendly Support"
+msgstr ""
+
+#: template-parts/content.php:18
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:46
+#: inc/customizer/consultstreet-customizer-options.php:73
+#: inc/customizer/consultstreet-customizer-options.php:86
+#: inc/customizer/consultstreet-customizer-options.php:99
+#: inc/customizer/consultstreet-customizer-options.php:112
+#: inc/customizer/consultstreet-customizer-options.php:125
+#: inc/customizer/consultstreet-customizer-options.php:138
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:61
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:54
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:157
+#: inc/customizer/consultstreet-panels-and-sections.php:67
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr ""
+
+#: inc/admin/getting-started.php:153
+msgid "Footer Options"
+msgstr ""
+
+#: functions.php:113
+msgid "Footer Sidebar Four"
+msgstr ""
+
+#: functions.php:110
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: functions.php:112
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: functions.php:111
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:138
+msgid "Footer Styles"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:60
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+#: inc/admin/tabs/free-vs-pro-panel.php:98
+#: inc/admin/tabs/free-vs-pro-panel.php:139
+msgid "Free"
+msgstr ""
+
+#: inc/admin/getting-started.php:121
+msgid "Free Vs Pro"
+msgstr ""
+
+#. Name of the template
+msgid "Frontpage"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:37
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:64
+msgid "Frontpage, Blog Fullwidth"
+msgstr ""
+
+#: inc/metabox.php:23
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:22
+msgid ""
+"Fully Responsive layout. Works on any screen size and display beautifully."
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:35
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:44
+msgid "General Post"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:178
+#: inc/admin/tabs/free-vs-pro-panel.php:214
+msgid "Get ConsultStreet Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:212
+msgid "Get started with ConsultStreet"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:13
+msgid "Get Support"
+msgstr ""
+
+#: inc/admin/getting-started.php:103
+msgid "Getting Started"
+msgstr ""
+
+#: searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: 404.php:22
+msgid "Go Back Now"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:52
+#: inc/admin/tabs/getting-started-panel.php:54
+msgid "Go to the Customizer"
+msgstr ""
+
+#: inc/admin/getting-started.php:162
+msgid "Google Font Support"
+msgstr ""
+
+#: inc/customizer/controls/code/consultstreet-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:198
+msgid "Google Map"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:47
+msgid "Header Style Variations"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:98
+msgid "Headings H1"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:104
+msgid "Headings H2"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:110
+msgid "Headings H3"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:116
+msgid "Headings H4"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:122
+msgid "Headings H5"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:128
+msgid "Headings H6"
+msgstr ""
+
+#: inc/template-tags.php:216 inc/template-tags.php:219
+msgid "Home"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:55
+msgid "Homepage Section Layout Styles"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/consultstreet-theme/"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:534
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:17
+msgid ""
+"If you are enjoying our consultstreet theme. So we will be waiting for your "
+"beautiful feedback. We will appreciate you with love."
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:558
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:51
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:592
+msgid "Image type"
+msgstr ""
+
+#: inc/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:75
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:103
+msgid "Layout"
+msgstr ""
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:16
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:574
+msgid "Left"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:81
+msgid "Light Color Skin"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:82
+msgid "Light Color Skins"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:140
+msgid "Light, Dark & Custom Color Style."
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:619
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:641
+msgid "Link"
+msgstr ""
+
+#: inc/admin/getting-started.php:139
+msgid "Links to Customizer Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:159
+msgid "Live Customizer"
+msgstr ""
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:65
+msgid "Logout"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:115
+msgid "Make your business website in RTL Language support."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:123
+msgid "Make your website fast on all devices."
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:20
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr ""
+
+#: inc/admin/getting-started.php:141
+msgid "Menus Options"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:48
+msgid "Meta One"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:50
+msgid "Meta Two"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:21
+msgid "Mobile Friendly Design"
+msgstr ""
+
+#: inc/admin/getting-started.php:160 inc/admin/tabs/free-vs-pro-panel.php:147
+msgid "Multilingual Ready"
+msgstr ""
+
+#: comments.php:54
+msgid "Name"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:26
+msgid "No Comments"
+msgstr ""
+
+#: inc/customizer/customizer-settings/consultstreet-customize-base-customizer-settings.php:74
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:597
+msgid "None"
+msgstr ""
+
+#. %1$s: icon
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: comments.php:26
+msgid "One comment"
+msgstr ""
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab:"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:23
+#: inc/customizer/consultstreet-panels-and-sections.php:45
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-page-header-customizer-settings.php:30
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-page-header-customizer-settings.php:43
+msgid "Page Header Enable/Disable"
+msgstr ""
+
+#: inc/admin/getting-started.php:142
+msgid "Page Header Options"
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: inc/admin/getting-started.php:172
+msgid "Priority Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+#: inc/admin/tabs/free-vs-pro-panel.php:65
+#: inc/admin/tabs/free-vs-pro-panel.php:82
+#: inc/admin/tabs/free-vs-pro-panel.php:99
+#: inc/admin/tabs/free-vs-pro-panel.php:140
+msgid "Pro"
+msgstr ""
+
+#: inc/admin/getting-started.php:150
+msgid "Project Options"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:48
+msgid ""
+"Read detailed documentation of the theme. The documentation has all the "
+"necessary information to set up the theme. Which will help you set up the "
+"theme. So you must read the document carefully before using it."
+msgstr ""
+
+#: inc/template-tags.php:114 template-parts/content-single.php:49
+#: template-parts/content.php:54
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:176
+msgid "Ready for more?"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:30
+msgid ""
+"Ready for Online Shop. You can create your online shop with WooCommerce."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/getting-started.php:108
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:622
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:652
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Right"
+msgstr ""
+
+#: inc/metabox.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/getting-started.php:164 inc/admin/tabs/free-vs-pro-panel.php:114
+msgid "RTL Support"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "Search results for"
+msgstr ""
+
+#: inc/admin/getting-started.php:168 inc/admin/tabs/free-vs-pro-panel.php:164
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:190
+msgid "SEO (Search Engine Optimization) Ready"
+msgstr ""
+
+#: inc/admin/getting-started.php:149
+msgid "Service Options"
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:33
+msgid "Set Sticky Bar Logo"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:199
+msgid "Shows the physical location with an interactive contact form."
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:10
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:90
+msgid "Single Blog Pages"
+msgstr ""
+
+#: inc/admin/getting-started.php:140
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:570
+msgid "Slide Content Format"
+msgstr ""
+
+#: inc/admin/getting-started.php:147
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:38
+msgid ""
+"Slider with Two Slides, Services, Projects, Testimonials, Blog/News, Call to "
+"Action"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:39
+msgid ""
+"Slider with Unlimited Slides, Services, Projects, Testimonials, Funfacts, "
+"Blog/News, Shop, Call to Action, Team, Clients"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:605
+msgid "Social icons"
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:122
+msgid "Speed Performance"
+msgstr ""
+
+#: inc/customizer/controls/code/consultstreet-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr ""
+
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr ""
+
+#: inc/admin/getting-started.php:158
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:12
+msgid ""
+"Still having a problem after using all the documentation? No Problem!! Our "
+"dedicated support team will help you to solve your problem. Hope you are "
+"enjoying our ConsultStreet theme."
+msgstr ""
+
+#: comments.php:67
+msgid "Submit"
+msgstr ""
+
+#: inc/admin/tabs/support-and-review.php:18
+msgid "Submit a review"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr ""
+
+#: inc/admin/getting-started.php:126 inc/admin/tabs/support-and-review.php:11
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "Tag"
+msgstr ""
+
+#: inc/admin/getting-started.php:151
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:210
+#, php-format
+msgid ""
+"Thank you for choosing ConsultStreet theme. To take full advantage of the "
+"complete features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:148
+msgid ""
+"The Premium Version is fully compatible with WPML and Poylang. Create your "
+"website in multiple languages."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:73
+msgid "The theme fully supports the contact form 7 plugin."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:131
+msgid "The whole footer of ConsultStreet WordPress theme is widget ready."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:80
+msgid "Theme Color Skins"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""
+
+#: comments.php:20
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/customizer-settings/theme-settings/consultstreet-blog-general-customizer-settings.php:49
+msgid "Title"
+msgstr ""
+
+#: template-parts/site-navbar.php:12
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:156
+msgid "Top Header Bar Support"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:106
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/customizer/consultstreet-panels-and-sections.php:78
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/getting-started.php:144
+msgid "Typography Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:169
+msgid "Unlimited Business Sections"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:181
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/admin/getting-started.php:163
+msgid "Unlimited Color Schemes"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/getting-started.php:116
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:53
+msgid ""
+"Using the WordPress Customizer you can easily customize every single aspect "
+"of the theme. Because this theme provides advanced settings to control the "
+"theme layout through the customizer."
+msgstr ""
+
+#: inc/admin/getting-started.php:171
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr ""
+
+#: inc/admin/tabs/getting-started-panel.php:49
+#: inc/admin/tabs/getting-started-panel.php:54
+msgid "Visit the Support"
+msgstr ""
+
+#: template-parts/content-single.php:70
+msgid "Website:"
+msgstr ""
+
+#. %1$s: welcome page
+#: inc/admin/getting-started.php:22
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#. %1$s %2$s: welcome message
+#: inc/admin/getting-started.php:90
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:191
+msgid "Which is help to increase the amount of visitors to a website."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:172
+msgid "Wide & Boxed Layout"
+msgstr ""
+
+#: inc/admin/getting-started.php:165
+msgid "Wide & Boxed Layouts"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:130
+msgid "Widgetized Footer Area"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:29
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: functions.php:117
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:157
+msgid ""
+"You can easily add/modify site info and social icons. Also change the header "
+"background color."
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:165
+msgid "You can easily drag and drop the front page sections with ordering."
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:62
+msgid "You can enter font-size in px or rem "
+msgstr ""
+
+#: inc/customizer/consultstreet-customizer-options.php:34
+msgid "You can Upload the Standrad size of logo (210px*39px)"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:182
+msgid "You can use any type of theme color as you want."
+msgstr ""
+
+#. %1$s %2$s: logged in
+#: comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: inc/admin/tabs/free-vs-pro-panel.php:90
+msgid ""
+"You will be able to change font style as you want and select your desired "
+"font."
+msgstr ""
+
+#: inc/template-tags.php:97
+msgid "Your comment is awaiting moderation."
+msgstr ""
